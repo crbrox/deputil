@@ -1,5 +1,5 @@
 module.exports = {
- // host: "dev-tdaf-misc-01",
+  host: "dev-tdaf-misc-01",
   port: 3001,
-  user: unknown""
+  user: "unkown" 
 }
